@@ -12,10 +12,16 @@ Nessa sessão vamos focar na nossa base de conhecimentos que deverão estar afia
 2. https://www.udemy.com/terminal-de-comandos-linux/
 3. https://www.youtube.com/watch?v=yz7nYlnXLfE
 4. https://www.youtube.com/watch?v=OlXtSME03WA&list=PLIevgZoV2cAiWXwgF2DV61_zD7bm42jVr
+5. https://linux.ime.usp.br/~lucasmmg/livecd/documentacao/documentos/terminal/Terminal_basico.html
+6. https://canaltech.com.br/linux/10-comandos-essenciais-do-linux/
+7. https://www.livrosdelinux.com.br/tabela-de-comandos/
 
 ### Git - Controle de Versão
 1. https://www.youtube.com/watch?v=SWYqp7iY_Tc
 2. https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0
+3. https://git-scm.com/book/en/v2
+4. https://br.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+5. https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04
 
 ### Github
 1. https://www.youtube.com/watch?v=fG6gl9ne6CE
